@@ -15,7 +15,7 @@ Lodash’s modular methods are great for:
 
 ```
 # Cloning repository
-git clone https://github.com/Raphabel/training-js.git training
+git clone https://github.com/alexisraimbault/training-js.git training
 
 # Fetching modules 
 cd training
